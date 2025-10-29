@@ -104,5 +104,5 @@ HD123Am
 ---
 
 ## 🧑‍💻 Author
-**Parameshwar**  
+**Parmeshwar**  
 Java Developer | QA Enthusiast | Learning Automation Testing | Automation Engineer

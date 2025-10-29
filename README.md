@@ -104,5 +104,5 @@ HD123Am
 ---
 
 ## 🧑‍💻 Author
-**Param**  
-Java Developer | QA Enthusiast | Learning Automation Testing
+**Parameshwar**  
+Java Developer | QA Enthusiast | Learning Automation Testing | Automation Engineer
